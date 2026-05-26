@@ -8,7 +8,7 @@ import {AppHeader, AppContent} from '#components';
 </script>
 
 <style>
-body{
-    background: #131619;
+.bg-color{
+  background-color: #151920;
 }
 </style>
