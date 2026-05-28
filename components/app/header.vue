@@ -31,7 +31,7 @@
         <p class="text-white text-[1.6rem] border-b-2 border-white font-semibold">Our Great Value</p>
         <p class="text-white text-[3rem] mt-[1rem] font-bold">Why DevMesh?</p>
       </div>
-      <div class="flex flex-col pr-[5%]">
+      <div class="flex flex-col px-[5%]">
         <p class="text-white text-[1.5rem] font-semibold">
           At DevMesh, we combine technical expertise with creative vision to deliver exceptional results that exceed expectations.
         </p>
