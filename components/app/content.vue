@@ -220,7 +220,7 @@
             </div>
           </div>
         </div>
-        <div class="flex flex-col md:flex-row justify-start w-full md:gap-4">
+        <div class="flex flex-col md:flex-row justify-between w-full md:gap-4">
           <div class="flex flex-col w-full md:w-[30%] items-start mb-[2rem]">
             <p class="text-[1.1rem] sm:text-[1.2rem] font-semibold text-orange-500">04</p>
             <p class="text-white text-[1.1rem] sm:text-[1.2rem] md:text-[1.3rem] mt-[0.5rem] font-semibold">Apple IOS App Development</p>
