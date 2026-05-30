@@ -302,7 +302,7 @@
       <div class="flex flex-col items-start w-full px-[1rem] sm:px-[2rem] md:px-[5rem] lg:px-[10rem] mb-[5rem]">
         <p class="text-white text-[1.4rem] sm:text-[1.5rem] md:text-[1.6rem] border-b-2 border-white font-semibold">Contact Us</p>
         <p class="text-gray-300 text-[1rem] sm:text-[1.05rem] md:text-[1.1rem] mt-[1rem]">
-          Get in touch with us for any inquiries
+          We'd love to hear from you — reach out anytime with questions, ideas, or just to say hello!
         </p>
         
         <div class="flex flex-col lg:flex-row gap-[2rem] mt-[3rem] w-full">
