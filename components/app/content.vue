@@ -78,7 +78,7 @@
   </div>
 
     <!-- Hero Section -->
-    <section id="home" class="w-full mt-[4rem] sm:mt-[6rem] md:mt-[8rem] scroll-m-[80px]">
+    <section id="home" class="w-full mt-[4rem] sm:mt-[6rem] md:mt-[6rem] scroll-m-[80px]">
       <div class="w-full px-[1rem] sm:px-[2rem] md:px-[5rem] lg:px-[10rem] flex flex-col mt-[5%] sm:mt-[8%] md:mt-[10%]">
         <p class="text-[2rem] sm:text-[3rem] md:text-[3.5rem] lg:text-[4rem] font-semibold text-white mx-auto text-center leading-tight">
           Building Your Vision from the Ground Up
@@ -92,17 +92,17 @@
 
     <!-- Buttons -->
     <div class="flex flex-col sm:flex-row justify-center mt-[3rem] sm:mt-[4rem] md:mt-[5rem] w-full gap-[1rem] sm:gap-[2rem] px-[1rem]">
-      <button class="bg-sky-600 text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
+      <a href="#3dDesign" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
         3D Design
-      </button>
-      <button class="bg-sky-600 text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
+      </a>
+      <a href="#webDevelopment" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
         Web Development
-      </button>
+      </a>
     </div>
 
     <!-- Why DevMesh Section -->
-    <div class="flex flex-col lg:flex-row mt-[6rem] mb-[3rem] sm:mb-[4rem] md:mb-[5rem] items-start w-full px-[1rem] sm:px-[2rem] md:px-[5rem] lg:px-[10rem] gap-[2rem] lg:gap-0">
-      <div class="flex flex-col w-full lg:w-[40%] items-start lg:mr-[10%]">
+    <div class="flex flex-col lg:flex-row mt-[8rem] mb-[3rem] sm:mb-[4rem] md:mb-[5rem] items-start w-full px-[1rem] sm:px-[2rem] md:px-[5rem] lg:px-[10rem] gap-[2rem] lg:gap-0">
+      <div class="flex flex-col w-full lg:w-[40%] items-start  lg:pl-[10%]">
         <p class="text-white text-[1.4rem] sm:text-[1.5rem] md:text-[1.6rem] border-b-2 border-white font-semibold">Our Great Value</p>
         <p class="text-white text-[2rem] sm:text-[2.5rem] md:text-[3rem] mt-[1rem] font-bold">Why DevMesh?</p>
       </div>
