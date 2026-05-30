@@ -92,10 +92,10 @@
 
     <!-- Buttons -->
     <div class="flex flex-col sm:flex-row justify-center mt-[3rem] sm:mt-[4rem] md:mt-[5rem] w-full gap-[1rem] sm:gap-[2rem] px-[1rem]">
-      <a href="#3dDesign" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
+      <a href="#3dDesign" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all">
         3D Design
       </a>
-      <a href="#webAppDevelopment" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
+      <a href="#webAppDevelopment" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all">
         Web & Mobile App Development
       </a>
     </div>
