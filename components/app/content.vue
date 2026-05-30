@@ -13,7 +13,7 @@
       <div class="hidden md:flex gap-[1.8rem] bg-gray-700 px-[1.5rem] rounded-[1rem] items-center justify-center font-medium md:py-[0.5rem]">
         <a href="#home" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Home</a>
         <a href="#3dDesign" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">3D Design</a>
-        <a href="#webAppDevelopment" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Web & App Dev</a>
+        <a href="#webMobileAppDevelopment" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Web & Moblie App Dev</a>
         <a href="#aboutus" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">About us</a>
         <a href="#contactus" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Contact us</a>
       </div>
@@ -59,7 +59,7 @@
           class="text-[1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.8rem] py-[0.6rem] transition-colors"
         >3D Design</a>
         <a 
-          href="#webAppDevelopment" 
+          href="#webMobileAppDevelopment" 
           @click="closeMenu"
           class="text-[1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.8rem] py-[0.6rem] transition-colors"
         >Web & App Dev</a>
@@ -95,8 +95,8 @@
       <a href="#3dDesign" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
         3D Design
       </a>
-      <a href="#webAppDevelopment" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
-        Web & App Development
+      <a href="#webMobileAppDevelopment" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
+        Web & Moblie App Development
       </a>
     </div>
 
@@ -179,7 +179,7 @@
     </section>
 
     <!-- Web & App Development Services -->
-    <section id="webAppDevelopment" class="w-full pt-[6rem] mb-[1rem] ">
+    <section id="webMobileAppDevelopment" class="w-full pt-[6rem] mb-[1rem] ">
       <div class="flex flex-col items-start w-full px-[1rem] sm:px-[2rem] md:px-[5rem] lg:px-[10rem]">
         <p class="text-white text-[1.4rem] sm:text-[1.5rem] md:text-[1.6rem] border-b-2 border-white font-semibold">Our Web & App Development Services</p>
         <p class="text-white text-[1.1rem] sm:text-[1.3rem] md:text-[1.5rem] mt-[1rem]">
@@ -259,7 +259,7 @@
           </p>
           <p class="text-gray-300 text-[1rem] sm:text-[1.05rem] md:text-[1.1rem] mt-[1rem] leading-relaxed">
             DevMesh is a creative digital agency dedicated to delivering exceptional 
-            3D modeling and web development solutions. With a passion for innovation 
+            3D modeling. With a passion for innovation 
             and attention to detail, we help businesses establish a powerful online 
             presence and visualize their concepts in stunning 3D.
           </p>
