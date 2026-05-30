@@ -13,7 +13,7 @@
       <div class="hidden md:flex gap-[1.8rem] bg-gray-700 px-[1.5rem] rounded-[1rem] items-center justify-center font-medium md:py-[0.5rem]">
         <a href="#home" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Home</a>
         <a href="#3dDesign" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">3D Design</a>
-        <a href="#webDevelopment" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Web Dev</a>
+        <a href="#webAppDevelopment" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Web & App Dev</a>
         <a href="#aboutus" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">About us</a>
         <a href="#contactus" class="text-[1.1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.5rem] py-[0.25rem]">Contact us</a>
       </div>
@@ -59,10 +59,10 @@
           class="text-[1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.8rem] py-[0.6rem] transition-colors"
         >3D Design</a>
         <a 
-          href="#webDevelopment" 
+          href="#webAppDevelopment" 
           @click="closeMenu"
           class="text-[1rem] hover:bg-sky-600 rounded-[0.5rem] px-[0.8rem] py-[0.6rem] transition-colors"
-        >Web Dev</a>
+        >Web & App Dev</a>
         <a 
           href="#aboutus" 
           @click="closeMenu"
@@ -84,7 +84,7 @@
           Building Your Vision from the Ground Up
         </p>
         <p class="text-white text-[1rem] sm:text-[1.2rem] md:text-[1.5rem] w-[90%] sm:w-[80%] md:w-[60%] lg:w-[50%] mx-auto text-center mt-[1rem]">
-          with decades of experience, we specialize in crafting immersive 3D models and cutting-edge web solutions that 
+          with decades of experience, we specialize in crafting immersive 3D models and cutting-edge Web & App solutions that 
           <span class="font-bold text-orange-500">Empower Businesses to Thrive in the Digital Age.</span> 
         </p>
       </div>
@@ -95,8 +95,8 @@
       <a href="#3dDesign" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
         3D Design
       </a>
-      <a href="#webDevelopment" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
-        Web Development
+      <a href="#webAppDevelopment" class="bg-sky-600 text-center content-center text-white w-full sm:w-[18rem] h-[4rem] sm:h-[5rem] rounded-[0.5rem] text-[1.2rem] sm:text-[1.4rem] font-semibold hover:bg-sky-500 transition-all hover:scale-105 duration-300">
+        Web & App Development
       </a>
     </div>
 
@@ -178,12 +178,12 @@
       </div>
     </section>
 
-    <!-- Web Development Services -->
-    <section id="webDevelopment" class="w-full pt-[6rem] mb-[1rem] ">
+    <!-- Web & App Development Services -->
+    <section id="webAppDevelopment" class="w-full pt-[6rem] mb-[1rem] ">
       <div class="flex flex-col items-start w-full px-[1rem] sm:px-[2rem] md:px-[5rem] lg:px-[10rem]">
-        <p class="text-white text-[1.4rem] sm:text-[1.5rem] md:text-[1.6rem] border-b-2 border-white font-semibold">Our Web Development Services</p>
+        <p class="text-white text-[1.4rem] sm:text-[1.5rem] md:text-[1.6rem] border-b-2 border-white font-semibold">Our Web & App Development Services</p>
         <p class="text-white text-[1.1rem] sm:text-[1.3rem] md:text-[1.5rem] mt-[1rem]">
-          We offer comprehensive web development services to create dynamic, responsive, and user-friendly websites and applications.
+          We offer comprehensive web and app development services to create dynamic, responsive, and user-friendly websites and applications.
         </p>
         <div class="flex flex-col md:flex-row justify-between mt-[2rem] w-full mb-[2rem] gap-6 md:gap-4">
           <div class="flex flex-col w-full md:w-[30%] items-start">
@@ -219,6 +219,31 @@
               />
             </div>
           </div>
+        </div>
+        <div class="flex flex-col md:flex-row justify-start w-full md:gap-4">
+          <div class="flex flex-col w-full md:w-[30%] items-start md:mr-[4%] mb-[2rem]">
+            <p class="text-[1.1rem] sm:text-[1.2rem] font-semibold text-orange-500">04</p>
+            <p class="text-white text-[1.1rem] sm:text-[1.2rem] md:text-[1.3rem] mt-[0.5rem] font-semibold">Apple IOS App Development</p>
+            <div class="image-container w-full mt-[0.5rem] cursor-pointer">
+              <img 
+                src="/assets/images/ios-app.jpeg" 
+                alt="Apple IOS App Development"
+                class="service-image"
+              />
+            </div>
+          </div>
+          <div class="flex flex-col w-full md:w-[30%] items-start">
+            <p class="text-[1.1rem] sm:text-[1.2rem] font-semibold text-orange-500">05</p>
+            <p class="text-white text-[1.1rem] sm:text-[1.2rem] md:text-[1.3rem] mt-[0.5rem] font-semibold">Android App Development</p>
+            <div class="image-container w-full mt-[0.5rem] cursor-pointer">
+              <img 
+                src="/assets/images/android.jpg" 
+                alt="Android App Development"
+                class="service-image"
+              />
+            </div>
+          </div>
+
         </div>
       </div>
     </section>
