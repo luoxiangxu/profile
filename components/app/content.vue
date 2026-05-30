@@ -181,7 +181,7 @@
     <!-- Web & App Development Services -->
     <section id="webMobileAppDevelopment" class="w-full pt-[6rem] mb-[1rem] ">
       <div class="flex flex-col items-start w-full px-[1rem] sm:px-[2rem] md:px-[5rem] lg:px-[10rem]">
-        <p class="text-white text-[1.4rem] sm:text-[1.5rem] md:text-[1.6rem] border-b-2 border-white font-semibold">Our Web & App Development Services</p>
+        <p class="text-white text-[1.4rem] sm:text-[1.5rem] md:text-[1.6rem] border-b-2 border-white font-semibold">Our Web & Mobile App Development Services</p>
         <p class="text-white text-[1.1rem] sm:text-[1.3rem] md:text-[1.5rem] mt-[1rem]">
           We offer comprehensive web and app development services to create dynamic, responsive, and user-friendly websites and applications.
         </p>
@@ -221,7 +221,7 @@
           </div>
         </div>
         <div class="flex flex-col md:flex-row justify-start w-full md:gap-4">
-          <div class="flex flex-col w-full md:w-[30%] items-start md:mr-[4%] mb-[2rem]">
+          <div class="flex flex-col w-full md:w-[30%] items-start mb-[2rem]">
             <p class="text-[1.1rem] sm:text-[1.2rem] font-semibold text-orange-500">04</p>
             <p class="text-white text-[1.1rem] sm:text-[1.2rem] md:text-[1.3rem] mt-[0.5rem] font-semibold">Apple IOS App Development</p>
             <div class="image-container w-full mt-[0.5rem] cursor-pointer">
@@ -239,6 +239,17 @@
               <img 
                 src="/assets/images/android.jpg" 
                 alt="Android App Development"
+                class="service-image"
+              />
+            </div>
+          </div>
+          <div class="flex flex-col w-full md:w-[30%] items-start">
+            <p class="text-[1.1rem] sm:text-[1.2rem] font-semibold text-orange-500">06</p>
+            <p class="text-white text-[1.1rem] sm:text-[1.2rem] md:text-[1.3rem] mt-[0.5rem] font-semibold">MobileApp Maintenance</p>
+            <div class="image-container w-full mt-[0.5rem] cursor-pointer">
+              <img 
+                src="/assets/images/app-maintenance.png" 
+                alt="Mobile App Maintenance"
                 class="service-image"
               />
             </div>
