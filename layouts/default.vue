@@ -1,10 +1,9 @@
 <template>
-    <AppHeader />
     <AppContent />
 </template>
 
 <script setup>
-import {AppHeader, AppContent} from '#components';
+import { AppContent} from '#components';
 </script>
 
 <style>
